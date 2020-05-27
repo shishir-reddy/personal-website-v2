@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Shishir Reddy'
+subtitle: 'I build things for myself.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm an undergraduate CS major at UCI , and I enjoy anything and everything related to Machine Learning and Computer Vision.

@@ -1,19 +1,19 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './self-pic-filter.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Python
+  - NumPy
+  - Pytorch
+  - C++
+  - C#
+  - Java
+  - Bash
+  - Mathematica
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hi! I'm Shishir, a student at the University of California Irvine. I am currently double majoring for undergraduate degrees in Computer Science and Business Information Management.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I am specializing in intelligent systems within my CS major, and Machine Learning is my passion. I especially enjoy working with Deep Learning networks and many of my relevant projects are centered around ML and Computer Vision.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
-
-Here are a few technologies I've been working with recently:
+Here are a few languages and technologies I have experience with:
